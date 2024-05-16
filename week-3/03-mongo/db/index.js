@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 mongoose.connect(
-  "mongodb+srv://admin:Lauriston%401@cluster0.bonmh1l.mongodb.net/course_selling_app"
+  "your mongodb url"
 );
 
 // Define schemas
